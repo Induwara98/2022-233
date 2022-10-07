@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "117763862094",
+    "project_id": "smartpredi",
+    "storage_bucket": "smartpredi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117763862094:android:54ffd782dc346d47805d1f",
+        "android_client_info": {
+          "package_name": "com.example.smartpredi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117763862094-pgo5ofev2olp9f97c1r312gf3dds7m41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartpredi",
+            "certificate_hash": "de6d50af43e5bbdada93faad7a0fca4fab075991"
+          }
+        },
+        {
+          "client_id": "117763862094-aaomu36mbm9c529pj0133u856pvgu6r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx2Xlk5EOCE8ZDZ07EfdWRS1v999JJ2pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117763862094-aaomu36mbm9c529pj0133u856pvgu6r7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
